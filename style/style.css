@@ -259,6 +259,7 @@ border-radius: 55px;
 margin-top: -150px;
 margin-left: 47px;  
 }
+
 .story-1-title{
     font-weight: 600px;
     font-size: 1.5rem ;
@@ -298,6 +299,7 @@ height: 300px;
     margin-left: 38px;
     margin-top: -35px;   
 }
+
 .story-2-title{
     font-weight: 600px;
     font-size: 0.9rem ;
@@ -503,19 +505,22 @@ height: 300px;
     width: 320px;
     justify-content: center;
     text-align: center;
-    margin: 20px 10px;
+    margin: 20px 130px;
     font-size: 2rem;
 }
 .banner-discription{
     width: 360px;
     justify-content: center;
     font-size: 0.9rem;
-    margin: 10px ;
+    margin: 10px 130px;
 }
 .banner-btn{
-    margin: 20px 115px;
+    margin: 20px 0px 10px 230px;
 }
 
+/* .header-marquee{
+    margin-left: 30px;
+} */
 
 /* main section standerd part */
 
@@ -530,6 +535,7 @@ height: 300px;
 .standard-card-1, 
 .standard-card-2,
 .standard-card-3{
+    margin-right: 15px;
     margin-bottom: 15px;
 }
 .story-heading{
